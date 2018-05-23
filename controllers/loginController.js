@@ -5,7 +5,18 @@ const userDataJson = [
         usercredentials : {
             username:"abhi",
             clientkey:'asgt5egffg5',
-            description:'hhs ekjhfdsjk seefuks'
+            description:'hhs ekjhfdsjk seefuks',
+            role:'admin'
+        }
+    },
+    {
+        username:"user",
+        password:"userpass",
+        usercredentials : {
+            username:"user",
+            clientkey:'asgt5rfersfd',
+            description:'hhs ekjhfdsjk seefuks',
+            role:'user'
         }
     }
 ]
